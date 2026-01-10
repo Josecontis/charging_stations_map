@@ -1,4 +1,3 @@
-/// Model for charging station from OpenChargeMap API
 class ChargingStation {
   final String? id;
   final String? title;
