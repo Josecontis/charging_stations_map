@@ -4,7 +4,7 @@
 **Data:** Gennaio 2026  
 **Progetto:** Visualizzazione stazioni di ricarica Enel X con clustering su Google Maps
 
-![App screenshot](assets/Screenshot_2026-01-10-11-43-....png)
+![App screenshot](assets/ScreenshotApp.png)
 
 ---
 
