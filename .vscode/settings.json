@@ -1,0 +1,6 @@
+{
+  // Organize imports at save
+  "editor.codeActionsOnSave": {
+    "source.organizeImports": "always"
+  }
+}
