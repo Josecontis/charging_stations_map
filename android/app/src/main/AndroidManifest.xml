@@ -1,11 +1,11 @@
-<manifest xmlns:android="http://schemas.android.com/apk/res/android">
-    <!-- Required permissions for Google Maps -->
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">   
+ <!-- Required permissions for Google Maps -->
     <uses-permission android:name="android.permission.INTERNET" />
     <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
     <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
     
     <application
-        android:label="charging_stations"
+        android:label="charging_stations_map"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
@@ -38,7 +38,7 @@
         <!-- Google Maps API Key (loaded from .env file) -->
         <meta-data
             android:name="com.google.android.geo.API_KEY"
-            android:value="${GOOGLE_MAPS_API_KEY}" />
+            android:value="AIzaSyCtvyQ6QLTBxKrDo27V9jB3dnqEcDOE1tk" />
     </application>
     <!-- Required to query activities that can process text, see:
          https://developer.android.com/training/package-visibility and

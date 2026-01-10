@@ -1,5 +1,5 @@
-import 'package:charging_stations/bindings/home_binding.dart';
-import 'package:charging_stations/pages/home_page.dart';
+import 'package:charging_stations_map/bindings/home_binding.dart';
+import 'package:charging_stations_map/pages/home_page.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_dotenv/flutter_dotenv.dart';
 import 'package:get/get.dart';

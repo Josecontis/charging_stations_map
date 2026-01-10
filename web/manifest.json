@@ -1,6 +1,6 @@
 {
-    "name": "charging_stations",
-    "short_name": "charging_stations",
+    "name": "charging_stations_map",
+    "short_name": "charging_stations_map",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

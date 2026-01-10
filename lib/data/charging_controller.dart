@@ -1,10 +1,10 @@
 import 'dart:async';
 import 'dart:math';
 
-import 'package:charging_stations/data/models/charging_station.dart';
-import 'package:charging_stations/data/models/marker_cluster.dart';
-import 'package:charging_stations/data/repositories/charging_repository.dart';
-import 'package:charging_stations/utils/marker_manager.dart';
+import 'package:charging_stations_map/data/charging_repository.dart';
+import 'package:charging_stations_map/models/charging_station.dart';
+import 'package:charging_stations_map/models/marker_cluster.dart';
+import 'package:charging_stations_map/utils/marker_manager.dart';
 import 'package:fluster/fluster.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';

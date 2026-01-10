@@ -2,9 +2,9 @@ import 'dart:async';
 import 'dart:math';
 import 'dart:ui';
 
-import 'package:charging_stations/data/models/charging_station.dart';
-import 'package:charging_stations/data/models/marker_cluster.dart';
-import 'package:charging_stations/utils/cluster_generator.dart';
+import 'package:charging_stations_map/models/charging_station.dart';
+import 'package:charging_stations_map/models/marker_cluster.dart';
+import 'package:charging_stations_map/utils/cluster_generator.dart';
 import 'package:fluster/fluster.dart';
 import 'package:get/get.dart';
 import 'package:google_maps_flutter/google_maps_flutter.dart';

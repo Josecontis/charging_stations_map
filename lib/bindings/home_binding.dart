@@ -1,4 +1,4 @@
-import 'package:charging_stations/data/controllers/charging_controller.dart';
+import 'package:charging_stations_map/data/charging_controller.dart';
 import 'package:get/get.dart';
 
 class HomeBinding extends Bindings {
